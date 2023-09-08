@@ -1,0 +1,11 @@
+Package: MATH4753WILL11542023
+Type: Package
+Title: MATH4793 functions
+Version: 0.1.0
+Author: Ryan Williams
+Maintainer: The package maintainer <ryan.t.williams-1@ou.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
