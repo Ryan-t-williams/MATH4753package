@@ -18,6 +18,6 @@ A data frame with 15 rows and 2 variables:
 fire
 }
 \description{
-A data set collected by blah aboiut blahblahblah
+A data set collected by MS about Fire Damage cost relative to distance from fire station
 }
 \keyword{datasets}

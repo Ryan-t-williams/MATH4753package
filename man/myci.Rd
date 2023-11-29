@@ -10,10 +10,10 @@ myci(x)
 \item{x}{A vector representing the sample data}
 }
 \value{
-A vector containing the lower and upper bounds of the 95% confidence interval
+A vector containing the lower and upper bounds of the 95 percent confidence interval
 }
 \description{
-This function calculates a 95% confidence interval for the population mean (\mu)
+This function calculates a 95 percent confidence interval for the population mean
 from a single sample.
 }
 \examples{

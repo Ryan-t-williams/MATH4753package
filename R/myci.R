@@ -1,11 +1,11 @@
 #' Title myci
 #'
-#' This function calculates a 95% confidence interval for the population mean (\mu)
+#' This function calculates a 95 percent confidence interval for the population mean
 #' from a single sample.
 #'
 #' @param x A vector representing the sample data
 #'
-#' @return A vector containing the lower and upper bounds of the 95% confidence interval
+#' @return A vector containing the lower and upper bounds of the 95 percent confidence interval
 #'
 #' @importFrom stats qt
 #' @importFrom stats sd
